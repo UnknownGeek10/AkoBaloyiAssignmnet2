@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8fe8ef29d6dfcdc4980d880035ed8bf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NewItemToAdd: {fileID: 4970039800339361184, guid: ef9f20e914fe9f541b9fc7e5cc85a7b7, type: 3}
+  - ChestInventory: {instanceID: 0}
+  - ShopInventory: {instanceID: 0}
+  - HomeButton: {instanceID: 0}
+  - ShopButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
